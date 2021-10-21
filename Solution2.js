@@ -1,6 +1,6 @@
-let numberA = -2
-let numberB = 4
-let numberC = 6
+let numberA = -4
+let numberB = 2
+let numberC = 35
 
 
 let D = numberB**2 - (4*numberA*numberC);
